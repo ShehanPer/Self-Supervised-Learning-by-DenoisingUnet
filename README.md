@@ -55,4 +55,10 @@ This project leverages **Self-Supervised Learning** to learn rich visual feature
 - Demonstrated the power of **SSL** for low-data regimes.
 
 
+### 📓 Notebook
+
+The original notebook file could not be uploaded here due to size limitations.  
+You can access the full Colab notebook with all code, experiments, and visualizations here:
+
+[Self-Supervised Learning by Denoising U-Net — Colab Notebook](https://colab.research.google.com/drive/1y6V7FnIc69GJDz3SMn5IFYEngjlPir8i?usp=drive_link)
 
